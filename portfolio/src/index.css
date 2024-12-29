@@ -1,18 +1,31 @@
-.navbar {
-    background-color: rgba(20, 20, 19, 0.473);
+body{
+    background-color: rgba(12, 12, 12, 0.822);
 }
-
-.nav-con{
-    justify-content: space-between;
+.navbar{
+    background-color: rgba(0, 0, 0);
+    color: white;
 }
-
 .intro{
-    background-color: #333333;
+    background-color: rgba(0, 0, 0);
     width: 100%;
-    height: 400px;
+    height: auto;
 }
 
 .rounded{
-    width: 200px;
-    height: 200px;
+    width: 60%;
+    margin-left: 150px;
+}
+
+.intro-contant{
+    margin-top: 40px;
+    color: white;
+}
+
+.intro-contant span{
+    color: rgb(252, 99, 44);
+}
+
+.intro-contant .btn{
+    background-color: rgb(252, 99, 44);
+    color: white;
 }
