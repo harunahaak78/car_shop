@@ -12,8 +12,9 @@ body{
 }
 
 .rounded{
-    width: 60%;
+    width: 50%;
     margin-left: 150px;
+    margin-bottom: 20px;
 }
 
 .intro-contant{
@@ -28,4 +29,19 @@ body{
 .intro-contant .btn{
     background-color: rgb(252, 99, 44);
     color: white;
+}
+
+.nav-link:hover{
+    color: rgb(252, 99, 44);
+
+}
+
+.btn-orange{
+    background-color: rgb(252, 99, 44);
+}
+
+.aboutSection {
+    width: 100%;
+    height: auto;
+    background-color: white;
 }
