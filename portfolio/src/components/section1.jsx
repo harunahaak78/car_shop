@@ -1,4 +1,4 @@
-import  Profiler  from "./img/profile-1.jpg";
+import  Profiler  from "../img/profile-1.jpg";
 function Intro(){
     return(
         <div className="container-fluid  py-5 intro d-flex justify-content-between">
