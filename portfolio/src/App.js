@@ -1,9 +1,8 @@
 import './App.css';
-import Navbar from './components/navbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Intro from './components/section1';
-import AboutSection from './components/About';
-import IconsSection from './components/IconsSection';
+import {Routes , Route} from 'react-router-dom';
+import Home from './pages/Home';
+import Project from './pages/Projects';
 
 
 
@@ -11,11 +10,21 @@ import IconsSection from './components/IconsSection';
 function App() {
   return (
     <>
-    <Navbar/>
+    {/* <Navbar/>
     <Intro/>
     <AboutSection/> 
-    <IconsSection/>
+    <IconsSection/> */}
     {/* <Ball/> */}
+
+    <main className='main-content'>
+      <Routes>
+        <Route path="/" element={<Home/>}/>
+        <Route path="/Project" element={<Project/>}/>
+
+      </Routes>
+    </main>
+
+
 
       
     

@@ -15,6 +15,7 @@ function AboutSection(){
                     Consequuntur alias error illo odit neque quae? Architecto, amet!
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit
                     </p>
+                    <h3 className=" display-6 fw-bold text-primary text-center"> My Skills</h3>
                     <div className="row align-items-center justify-content-center">
                         <div className="col">
                             <div className="container skill">
