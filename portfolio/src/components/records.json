@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "School Website" ,
+        "image": "school.png",
+        "description": "This is a school website"
+
+    },
+    {
+        "id": 2,
+        "name": "Real Estate" ,
+        "image": "estate.png",
+        "description": "This is a school website"
+    },
+    {
+        "id": 3,
+        "name": "Ecommerce" ,
+        "image": "Ecommerce.png",
+        "description": "This is a school website"
+
+
+    }
+]
