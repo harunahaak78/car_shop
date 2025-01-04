@@ -1,0 +1,26 @@
+[
+    {
+        "id":"1",
+        "name":"Audi",
+        "image": "audi2_bg_removed.png.png"
+
+    },
+    {
+        "id":"2",
+        "name":"Lamboorghini",
+        "image": "lambo1_bg_removed.png.png"
+
+    },
+    {
+        "id":"3",
+        "name":"Jeep",
+        "image": "jeep2_bg_removed.png.png"
+
+    },
+    {
+        "id":"3",
+        "name":"BMW",
+        "image": "bnw_bg_removed.png.png"
+
+    }
+]
