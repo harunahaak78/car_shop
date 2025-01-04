@@ -10,13 +10,21 @@
         "id": 2,
         "name": "Real Estate" ,
         "image": "estate.png",
-        "description": "This is a school website"
+        "description": "This is a Real Estate App"
     },
     {
         "id": 3,
         "name": "Ecommerce" ,
         "image": "Ecommerce.png",
-        "description": "This is a school website"
+        "description": "This is a Ecommerce App"
+
+
+    },
+    {
+        "id": 4,
+        "name": "Car Shop" ,
+        "image": "car_shop.png",
+        "description": "This is a Car Buying and Renting App"
 
 
     }

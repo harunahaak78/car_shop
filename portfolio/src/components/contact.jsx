@@ -8,11 +8,11 @@ const Contact = () =>{
             <div className="row ms-3">
                 <div className="col- col-lg-12">
                     <div class="mb-3 ms-2">
-                        <label for="exampleFormControlInput1" className="form-label">Email address:</label>
+                        <label for="exampleFormControlInput1" className="form-label fw-bold">Email address:</label>
                         <input type="email" className="form-control w-25 border-black" id="exampleFormControlInput1" placeholder="name@example.com"/>
                     </div>
                     <div class="mb-3 ms-2">
-                        <label for="exampleFormControlTextarea1" className="form-label">Example textarea</label>
+                        <label for="exampleFormControlTextarea1" className="form-label fw-bold">Example textarea</label>
                         <textarea className="form-control w-25" id="exampleFormControlTextarea1" rows="3"></textarea>
                     </div>
                 </div>
