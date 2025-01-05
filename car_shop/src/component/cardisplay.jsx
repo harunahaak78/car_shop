@@ -5,7 +5,7 @@ const Cardisplay = () =>{
     return(
         <div className=" container-fluid">
             <div className="row ms-1 me-1 mt-3 justify-content-center">
-                <div className="col-5  bg-body-secondary rounded-4 me-1">
+                <div className="col-5 col-md-6 bg-body-secondary rounded-4 me-1">
                     <div className="row">
                         <div className="col">
                             <h1 className=" display-6 fw-bold">Buy  any Car you Want! </h1>
@@ -20,7 +20,7 @@ const Cardisplay = () =>{
                         </div>
                     </div>
                 </div>
-                <div className="col-5 bg-body-tertiary rounded-4">
+                <div className="col-5 col-md-5 bg-body-tertiary rounded-4">
                 <div className="row">
                         <div className="col">
                         <h1 className=" display-6 fw-bold">Rent  any Car you Want! </h1>
@@ -31,7 +31,6 @@ const Cardisplay = () =>{
                         </div>
                         <div className="col mt-auto">
                             <img src={fxf} alt="" className='carimg' />
-
                         </div>
                     </div>
                 </div>

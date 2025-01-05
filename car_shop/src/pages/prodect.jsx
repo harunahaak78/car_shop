@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import Cardisplay from "../component/cardisplay";
 import ProdectCard from "../component/prodectcard";
+import AllProdect from "../component/allcarprodect";
 
 const Proedect = () =>{
     return(
@@ -35,6 +36,7 @@ const Proedect = () =>{
 
    <Cardisplay/>
    <ProdectCard/>
+   <AllProdect/>
 
         </>
        

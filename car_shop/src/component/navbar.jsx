@@ -1,6 +1,11 @@
 import { Link } from "react-router-dom";
+import { useState } from "react";
 
 const Navbar = () =>{
+    const [SearchQuery, setSearchQuery] = useState("");
+    const handleSearch = () =>{
+
+    }
     return(
     <nav className="navbar navbar-expand-lg navbar-dark">
         <div className="container-fluid">
@@ -22,8 +27,8 @@ const Navbar = () =>{
 
 
                 </ul>
-                <form className="d-flex ms-auto" role="search">
-                    <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
+                <form className="d-flex ms-auto" role="search" onSubmit={handleSearch}>
+                    <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" value={SearchQuery} onChange={(e) => setSearchQuery(e.target.value)}/>
                     <button className="btn btn-outline-success" type="submit">Search</button>
                 </form>
             </div>
