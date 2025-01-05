@@ -38,7 +38,7 @@ const AllProdect = () => {
                 <button
                   className={`favorite-btn ${favorites[record.id] ? 'active' : ''}`}
                   onClick={(e) => {
-                    e.stopPropagation(); // Prevent triggering the card click event
+                    e.stopPropagation(); 
                     onFavoriteClick(record.id);
                   }}
                 >
