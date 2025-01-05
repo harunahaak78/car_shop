@@ -1,4 +1,5 @@
 import Range from '../img/range-rover_bg_removed.png.png';
+import {Link} from 'react-router-dom';
 
 const IntroSection = () =>{
     return(
@@ -12,7 +13,7 @@ const IntroSection = () =>{
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum impedit sed odit 
                             veritatis consequatur aliquam ipsa quod cupiditate non. Voluptates.
                         </p>
-                        <button className="carbtn">Prodect</button>
+                        <Link to="prodect"> <button className="carbtn">Prodect</button></Link>
                     </div>
                     <img src={Range} alt="rangr rover" className=' img-fluid mb-3' />
 
