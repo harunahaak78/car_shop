@@ -2,70 +2,93 @@
     {
         "id":"1",
         "name":"Audi",
-        "image": "audi.jpg"
+        "image": "audi.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni culpa ea architecto nam. Esse recusandae magnam illo omnis aliquam? Mollitia, libero cum. Eos cupiditate vel ipsam veritatis quae eius corrupti!"
+
 
     },
     {
         "id":"2",
         "name":"Audi",
-        "image": "audi1.jpg"
+        "image": "audi1.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni culpa ea architecto nam. Esse recusandae magnam illo omnis aliquam? Mollitia, libero cum. Eos cupiditate vel ipsam veritatis quae eius corrupti!"
+
 
     },
     { 
         "id":"3",
         "name":"Audi",
-        "image": "audi2.jpg"
+        "image": "audi2.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni culpa ea architecto nam. Esse recusandae magnam illo omnis aliquam? Mollitia, libero cum. Eos cupiditate vel ipsam veritatis quae eius corrupti!"
+
 
     },
     {
         "id":"4",
         "name":"Audi",
-        "image": "audi3.jpg"
+        "image": "audi3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni culpa ea architecto nam. Esse recusandae magnam illo omnis aliquam? Mollitia, libero cum. Eos cupiditate vel ipsam veritatis quae eius corrupti!"
+
 
     },
     {
         "id":"5",
         "name":"BMW",
-        "image": "bmw.jpg"
+        "image": "bmw.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni culpa ea architecto nam. Esse recusandae magnam illo omnis aliquam? Mollitia, libero cum. Eos cupiditate vel ipsam veritatis quae eius corrupti!"
+
 
     },
     {
         "id":"6",
         "name":"BMW",
-        "image": "bmw3.jpg"
+        "image": "bmw3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni culpa ea architecto nam. Esse recusandae magnam illo omnis aliquam? Mollitia, libero cum. Eos cupiditate vel ipsam veritatis quae eius corrupti!"
 
     },
     {
         "id":"7",
         "name":"BMW",
-        "image": "bnw.jpg"
+        "image": "bnw.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni culpa ea architecto nam. Esse recusandae magnam illo omnis aliquam? Mollitia, libero cum. Eos cupiditate vel ipsam veritatis quae eius corrupti!"
+
 
     },
     {
         "id":"8",
         "name":"BMW",
-        "image": "bnw1.jpg"
+        "image": "bnw1.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni culpa ea architecto nam. Esse recusandae magnam illo omnis aliquam? Mollitia, libero cum. Eos cupiditate vel ipsam veritatis quae eius corrupti!"
+
     },
     {
         "id":"9",
         "name":"Lamboghini",
-        "image": "lambo.jpg"
+        "image": "lambo.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni culpa ea architecto nam. Esse recusandae magnam illo omnis aliquam? Mollitia, libero cum. Eos cupiditate vel ipsam veritatis quae eius corrupti!"
+
 
     },
     {
         "id":"10",
         "name":"Jeep",
-        "image": "jeep.jpg"
+        "image": "jeep.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni culpa ea architecto nam. Esse recusandae magnam illo omnis aliquam? Mollitia, libero cum. Eos cupiditate vel ipsam veritatis quae eius corrupti!"
+
     },
     {
         "id":"11",
         "name":"Range Rover",
-        "image": "range-rover.jpg"
+        "image": "range-rover.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni culpa ea architecto nam. Esse recusandae magnam illo omnis aliquam? Mollitia, libero cum. Eos cupiditate vel ipsam veritatis quae eius corrupti!"
+
     },
     {
         "id":"12",
         "name":"Rolls Royce",
-        "image": "rolls_royce.jpg"
+        "image": "rolls_royce.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni culpa ea architecto nam. Esse recusandae magnam illo omnis aliquam? Mollitia, libero cum. Eos cupiditate vel ipsam veritatis quae eius corrupti!"
+
     }
 
 
