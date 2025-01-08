@@ -56,7 +56,7 @@ const Navbar = () => {
           </ul>
           <form className="d-flex ms-auto" role="search" onSubmit={handleSearch}>
             <input
-              className="form-control me-2 mt-4 h-25 align-items-center"
+              className="form-control me-2 mt-3 h-25 align-items-center"
               type="search"
               placeholder="Search"
               aria-label="Search"
