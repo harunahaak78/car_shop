@@ -3,6 +3,7 @@ import Navbar from '../component/navbar';
 import Visa from '../img/visa.png';
 import Mastercard from '../img/master card.png'
 import Paypal from '../img/paypal.png'
+import Contact from '../component/contact/contact';
 
 const PaymentPage = () => {
   const { state: product } = useLocation();
@@ -27,7 +28,7 @@ const PaymentPage = () => {
         />
         <div className="card-body">
           <h5 className="card-title">{product.name}</h5>
-          <p className="card-text">{product.description}</p>
+          <p className="card-text text-black">{product.description}</p>
           <button className="btn btn-primary">Proceed to Payment</button>
         </div>
       </div>
@@ -62,6 +63,7 @@ const PaymentPage = () => {
       </div>
  
     </div>
+    <Contact/>
     </>
   
   );
