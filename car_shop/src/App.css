@@ -76,3 +76,38 @@ span{
 .favorite-btn.active {
   color: #ff4757;
 }
+.paymentimg{
+    width: 20%;
+    border-radius: 5px;
+}
+.paymentimg:hover{
+    border: 1px solid  rgb(55, 84, 247) ;
+}
+
+.paymentcontainer:active{
+    box-shadow: 1px 1px 1px 1px lightgray;
+
+}
+
+.paymentsubmit{
+    border: none;
+    background-color: rgb(70, 67, 252);
+    color: white;
+}
+
+input[type=text]{
+    border: 1px solid gray;
+}
+input[type=email]{
+    border: 1px solid gray;
+}
+input[type=email]:hover{
+    border: 1px solid rgb(69, 69, 252);
+}
+
+input[type=text]:hover{
+    border: 1px solid rgb(69, 69, 252);
+}
+
+
+
