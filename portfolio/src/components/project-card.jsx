@@ -17,7 +17,7 @@ const Cards = () =>{
                                     <div className="card-body">
                                         <h5 className="card-title">{record.name}</h5>
                                         <p className="card-text"> {record.description}</p>
-                                        <a href="#" className="btn btn-primary">Go somewhere</a>
+                                        <a href="#" className="btn btn-primary">Github</a>
                                     </div>
                                 </div>
                             </div>
