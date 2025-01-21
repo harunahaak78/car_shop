@@ -40,14 +40,14 @@ const Navbar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="prodect" className="text-decoration-none">
+              <Link to="/prodect" className="text-decoration-none">
                 <a className="nav-link" href="#">
-                  Prodect
+                  Product
                 </a>
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="contact" className="text-decoration-none">
+              <Link to="/contact" className="text-decoration-none">
                 <a className="nav-link" href="#">
                   Contact
                 </a>
